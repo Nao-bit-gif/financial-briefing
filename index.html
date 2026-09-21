@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Financial Briefing — 金融マーケット・ブリーフィング</title>
+<meta name="description" content="毎日更新される金融マーケットの要点と分析">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="page">
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark">FB</span>
+      <div>
+        <h1>Financial Briefing</h1>
+        <p class="tagline">毎日の金融マーケット・ブリーフィング</p>
+      </div>
+    </div>
+    <div class="meta" id="meta">
+      <span class="slot-badge" id="slot-badge">—</span>
+      <span id="updated-at">読み込み中…</span>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="headline-card" id="headline-card">
+      <p id="headline">読み込み中…</p>
+    </section>
+
+    <section id="sections"></section>
+
+    <section class="insight-card" id="insight-card" hidden>
+      <h2>運用者目線の所見</h2>
+      <p id="insight"></p>
+    </section>
+  </main>
+
+  <aside class="history" id="history" hidden>
+    <h2>過去のブリーフィング</h2>
+    <ul id="history-list"></ul>
+  </aside>
+
+  <footer class="site-footer">
+    <p>このページは Claude が収集・分析したレポートを自動更新しています（毎日 朝7時・夜21時 JST 目安）。投資判断は自己責任でお願いします。</p>
+  </footer>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
