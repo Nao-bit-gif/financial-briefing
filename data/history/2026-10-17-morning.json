@@ -1,0 +1,24 @@
+{
+  "updated_at": "2026-10-17T07:15:00+09:00",
+  "slot": "morning",
+  "headline": "CoreWeave株は週間で約25%急落、CDSスプレッドが過去最高に。ナスダックは-2.15%で半導体株が広範売られ、バークレイズは「AIトレードの最盛期は終わった可能性」と指摘。",
+  "sections": [
+    {
+      "title": "🚨CoreWeave株は週間で約4分の1急落、CDSスプレッドが過去最高を記録——AI信用不安が深刻化",
+      "body": "前夜報告した「債務懸念は根強い」という状況は、一晩で大きく悪化した。CoreWeave株は16日（金）に一時-11.2%、終値ベースでも約-12%下落し、週間では約25%の急落となった。5年物クレジット・デフォルト・スワップ（CDS）スプレッドは約1,195ベーシスポイントと過去最高を記録し、一部の社債は「経営難」水準に入った。約500億ドルの債務負担への懸念が直接の要因とされる。",
+      "sources": [
+        { "title": "コアウィーブ株、債務懸念の高まりで再び下落 - Investing.com", "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1714180" },
+        { "title": "Why Is CoreWeave Stock Falling Today? - The Motley Fool", "url": "https://www.fool.com/investing/2026/10/16/why-is-coreweave-stock-falling-today/" }
+      ]
+    },
+    {
+      "title": "📉ナスダックは-2.15%の大幅安、半導体株が広範に売られる——バークレイズ「AIトレードの最盛期は終わった可能性」",
+      "body": "サンディスクが-6.8%、マイクロン・インテル・AMDも5%超安と、半導体株が広範に売られた。グローバルなAI・半導体株は資金調達・金利への懸念から1兆ドル超の損失を計上したと報じられている。バークレイズは「AIトレードの最盛期は終わった可能性」との見解を示した。中東情勢の緊張再燃によるBrent原油の高値更新も、相場の重しとして追加された。",
+      "sources": [
+        { "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt - CNN", "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave" },
+        { "title": "バークレイズ、AIトレードの最盛期は終わった可能性と指摘 - Investing.com", "url": "https://jp.investing.com/news/stock-market-news/article-1714287" }
+      ]
+    }
+  ],
+  "insight": "これまで「一時的な過熱感の調整」という楽観的な見方もあったAI関連株の下落だが、CoreWeaveのCDSスプレッドが過去最高を記録し社債が経営難水準に入ったことは、これが単なる株価の調整ではなく、実体的な信用リスクに発展していることを示す。バークレイズの「AIトレード終了」という見解も、セルサイドの論調が変化し始めている証拠。原油高という別の逆風も重なり、来週の日本市場は金曜の大幅安（NYの反応）を受けてさらに不安定な展開となる可能性が高い。AIインフラ企業の資金調達環境（社債発行・CDS市場）を継続的に監視する必要がある。"
+}
