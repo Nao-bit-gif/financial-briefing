@@ -1,0 +1,24 @@
+{
+  "updated_at": "2026-10-25T07:15:00+09:00",
+  "slot": "morning",
+  "headline": "CoreWeave株は週間で約25%急落、SOX指数は8営業日連続安。原油はBrentが117ドル突破の5カ月ぶり高値も金曜は反落、サウジ・アラムコが本社退避を命令。",
+  "sections": [
+    {
+      "title": "📉CoreWeave株は週間で約25%急落、3週連続の週間安へ——SOX指数は8営業日連続安、市場価値は5月以来440億ドル消失",
+      "body": "CoreWeave株は10月に入り約37%下落し、週間でも約25%の急落。これに伴いフィラデルフィア半導体株指数（SOX）は8営業日連続で下落した。市場価値は5月以来440億ドルが消失。CDSスプレッドは1,100ベーシスポイント超に拡大、2031・2032年満期の無担保債利回りは15%を突破した。アナリストの見方は大きく分裂しており、HSBCは「減少」評価・目標株価39ドルを維持する一方、カンター・フィッツジェラルドは「買い増し」評価・目標株価176ドルを維持——評価の差は実に4.5倍に達する。受注残は前年比+246%の1,040億ドル規模。",
+      "sources": [
+        { "title": "CoreWeave Heads for Third Weekly Loss, Weighing on Stocks and Bitcoin Over AI Financing Fears - Yahoo Finance", "url": "https://finance.yahoo.com/markets/crypto/articles/coreweave-heads-third-weekly-loss-194400826.html" },
+        { "title": "CoreWeave市值蒸發440億 - 星島日報", "url": "https://www.singtaousa.com/2026/10/24/news/usa/coreweave-market-value-plummets/" }
+      ]
+    },
+    {
+      "title": "🛢️原油：Brentは5カ月ぶり高値117ドル突破も金曜は113ドル台に反落、サウジ・アラムコが本社退避を命令",
+      "body": "週前半、フーシ派によるサウジアラビア攻撃激化を受けBrentは一時117ドルを突破する5カ月ぶりの高値を記録。サウジ・アラムコは木曜、ダーランの本社退避を命じ、世界最大の原油輸出国の供給安全性への懸念が強まった（ただし生産停止は確認されていない）。金曜終値はBrent約112.96ドル・WTI約98.12ドルに反落。週間ではBrentが3週連続高、WTIは週間安という珍しい分裂が生じている。",
+      "sources": [
+        { "title": "ブレント原油が117ドル突破、フーシ派によるサウジ攻撃で供給懸念 - BigGoファイナンス", "url": "https://finance.biggo.jp/news/3f75fc33-efb4-4b78-8616-54bed6940b95" },
+        { "title": "中東の敵対行為が続くなか、原油価格は週間で大幅高へ - IndexBox", "url": "https://www.indexbox.io/ja/blog/oil-prices-set-for-sharp-weekly-gain-as-middle-east-hostilities-persist/" }
+      ]
+    }
+  ],
+  "insight": "CoreWeaveを巡るアナリスト評価の分裂（目標株価39ドル対176ドル）は、これまで報告してきた「見方が分かれている」という状況が、もはや単なる慎重論と楽観論の違いではなく、企業の将来像そのものに対する根本的な評価の相違に発展していることを示す。SOX指数8日続落という事実は、この問題が一企業の信用不安を超え、半導体セクター全体の重しとなっている。原油のサウジ・アラムコ本社退避命令は、これまでのホルムズ海峡中心の供給リスクが、サウジ国内の生産拠点そのものへの懸念に広がりつつあることを示す新しい警戒材料だ。週明けの市場がこれらをどう吸収するか、注視が必要。"
+}
