@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-11-20T21:15:00+09:00",
+  "slot": "evening",
+  "headline": "アンソロピック(ANT)、ナスダック初日は寄り付き+34%の111.50ドルも、終値は+17%の97.17ドルまで失速——ウォール街全体のAI株売りが重なった。",
+  "sections": [
+    {
+      "title": "📉ANT初日は寄り付き+34%→終値+17%に失速——AI株全体の売りが重なる",
+      "body": "今朝最優先事項としていたアンソロピック(ANT)のナスダック初日の取引結果がついに確認できた。複数の有力メディア(Yahoo Finance、TheNextWeb、CNBC、Betanews)の報道によると、83ドルのIPO価格に対し、寄り付きは111.50ドル(+約34%、完全希薄化ベースで評価額2兆ドル超)。取引時間中には114.99ドルまで上昇する場面もあったが、その後失速し、終値は97.17ドル(IPO価格比+17%)で引けた。この日はウォール街全体でAI関連株への評価不安からハイテク株中心の売りが強まっており(11月17日時点でダウは4営業日続落、848.75ドル安の50759.42ドルまで下落していたことが確認済み)、そうした逆風の中でも記録的なIPOとして17%高を確保した点は評価できる一方、寄り付きの勢いを終日維持できなかった点は、過熱していた期待の一部が修正された形とも言える。なお、7社による260億ドルの戦略的私募増資(無投票権のクラスN株)を含めると、IPO価格ベースでの調達総額は1,073億ドルに達し、6月のスペースX(750億ドルとされる)を上回る規模となった。日本時間20日の日経平均終値、ドル円、ビットコイン価格など他の指標については、検索時点で確度の高い最新データを確認できなかった。",
+      "sources": [
+        { "title": "Anthropic shares jump 34% in Nasdaq debut after record IPO - Yahoo Finance UK", "url": "https://uk.finance.yahoo.com/news/anthropic-shares-jump-34-nasdaq-170700310.html" },
+        { "title": "Anthropic stock closes up 17% in record Nasdaq debut - Betanews", "url": "https://betanews.com/article/anthropic-stock-ipo-nasdaq-debut/" },
+        { "title": "Anthropic shares jump 34% at open in record Nasdaq debut - TheNextWeb", "url": "https://thenextweb.com/news/anthropic-shares-jump-34-percent-nasdaq-debut-ant" },
+        { "title": "Anthropic IPO live updates: ANT stock price and Nasdaq debut - CNBC", "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html" }
+      ]
+    }
+  ],
+  "insight": "寄り付き+34%から終値+17%への失速は、アンソロピックという個別企業への評価というより、AIセクター全体に広がる「評価額(バリュエーション)への警戒感」が上場初日の値動きにも波及した結果と見られる。それでも、ウォール街がAI株売りで揺れる最悪のタイミングの一つで上場しながら、2桁%の上昇を維持できたことは、同社への投資家の信認がコアウィーブなどAIインフラ企業への信用不安とは一線を画して保たれていることを示している。今後の注目点は、クラスN株(私募増資分)やインサイダー株のロックアップ解除時期に株価がどう反応するか。ロックアップ解除は将来の供給増要因として、株価の上値を抑える可能性がある。"
+}
